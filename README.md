@@ -128,11 +128,23 @@ Location  : India 🇮🇳
 
 <div align="center">
 
-## 📈 Coding Journey
+## 😂 Fun Facts About Me
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+> 🐛 &nbsp; My code doesn't have bugs — it has **surprise features**
+>
+> ☕ &nbsp; I run on **chai** and **Stack Overflow** copy-pastes
+>
+> 🎸 &nbsp; I play guitar when my code doesn't compile (which is... often)
+>
+> ♟️ &nbsp; I think in **algorithms** even during chess — still lose to my friends
+>
+> ⚽ &nbsp; I blame **lag** when I miss a goal, both in football & in life
+>
+> 🌙 &nbsp; My most productive hours are **2 AM** — ask my git commit history
+>
+> 🤔 &nbsp; `It works on my machine` is my most used phrase
 
 </div>
 
