@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manas%20Shete&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Code%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there%2C+I'm+Manas+Shete+%F0%9F%91%8B;2nd+Year+Computer+Science+Student+%F0%9F%8E%93;Building+cool+projects+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=6E57F7&center=true&vCenter=true&width=750&height=60&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Any+fool+can+write+code+that+a+computer+can+understand%22;%22The+best+error+message+is+the+one+that+never+shows+up.%22;%22Simplicity+is+the+soul+of+efficiency.%22+-+Austin+Freeman;%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds" alt="Typing Quotes SVG" />
 
 <br/>
 
