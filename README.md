@@ -120,11 +120,7 @@ Location  : India 🇮🇳
 <br/><br/>
 
 <!-- Tech badges -->
-![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20API-6E57F7?style=for-the-badge&logo=openai&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Smart Contract](https://img.shields.io/badge/Smart%20Contract-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+<img src="https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/AI%20API-6E57F7?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Blockchain-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Smart%20Contract-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 
 <br/>
 
@@ -132,9 +128,7 @@ Location  : India 🇮🇳
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/🔗%20View%20Project-6E57F7?style=for-the-badge)](https://github.com/manasshete/pay-per-usage-ai-api-access-system-using-algorand)
-&nbsp;
-[![All Repos](https://img.shields.io/badge/📂%20All%20Repositories-1a1a2e?style=for-the-badge)](https://github.com/manasshete?tab=repositories)
+<a href="https://github.com/manasshete/pay-per-usage-ai-api-access-system-using-algorand"><img src="https://img.shields.io/badge/%F0%9F%94%97%20View%20Project-6E57F7?style=for-the-badge" /></a>&nbsp;<a href="https://github.com/manasshete?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%93%82%20All%20Repositories-1a1a2e?style=for-the-badge" /></a>
 
 </div>
 
