@@ -32,7 +32,7 @@ Name      : Manas Shete
 Role      : Computer Science Student (2nd Year)
 Passion   : Building Projects | Learning New Tech | Open Source
 Goal      : Becoming a Full Stack Developer
-Hobbies   : Coding | Problem Solving | Exploring Tech
+Hobbies   : Coding | Problem Solving | Exploring Tech | Guitar 🎸 | Football ⚽ | Chess ♟️
 Location  : India 🇮🇳
 ```
 
