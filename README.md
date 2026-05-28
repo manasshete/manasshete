@@ -72,13 +72,13 @@ Location  : India 🇮🇳
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manasshete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9&ring_color=6E57F7" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manasshete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9&ring_color=6E57F7" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasshete&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E57F7&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manasshete&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E57F7&text_color=c9d1d9" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manasshete&theme=tokyonight&hide_border=true&background=0d1117&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7&sideLabels=c9d1d9&dates=c9d1d9&stroke=6E57F7" />
+<img src="https://streak-stats.demolab.com/?user=manasshete&theme=tokyonight&hide_border=true&background=0d1117&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7&sideLabels=c9d1d9&dates=c9d1d9&stroke=6E57F7" />
 
 <br/><br/>
 
@@ -95,7 +95,7 @@ Location  : India 🇮🇳
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=manasshete&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+<img src="https://github-trophies.vercel.app/?username=manasshete&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
 </div>
 
@@ -111,11 +111,12 @@ Location  : India 🇮🇳
 
 <div align="center">
 
-<a href="https://github.com/manasshete?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasshete&repo=manasshete&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9" />
-</a>
+| 🗂️ Repository | 📝 Description | ⭐ Stars |
+|---|---|---|
+| [🔗 manasshete](https://github.com/manasshete/manasshete) | GitHub Profile README | ![Stars](https://img.shields.io/github/stars/manasshete/manasshete?style=flat&color=6E57F7) |
+| [🔗 Explore All Repos](https://github.com/manasshete?tab=repositories) | 85+ projects & counting... | 🚀 |
 
-<br/><br/>
+<br/>
 
 📌 *Check out all my **85+ repositories** on my [GitHub Profile](https://github.com/manasshete?tab=repositories)!*
 
