@@ -111,14 +111,30 @@ Location  : India 🇮🇳
 
 <div align="center">
 
-| 🗂️ Repository | 📝 Description | ⭐ Stars |
-|---|---|---|
-| [🔗 manasshete](https://github.com/manasshete/manasshete) | GitHub Profile README | ![Stars](https://img.shields.io/github/stars/manasshete/manasshete?style=flat&color=6E57F7) |
-| [🔗 Explore All Repos](https://github.com/manasshete?tab=repositories) | 85+ projects & counting... | 🚀 |
+### 🚀 Main Project
+
+<a href="https://github.com/manasshete/pay-per-usage-ai-api-access-system-using-algorand">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=manasshete&repo=pay-per-usage-ai-api-access-system-using-algorand&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9&description_lines_count=2" />
+</a>
+
+<br/><br/>
+
+<!-- Tech badges -->
+![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20API-6E57F7?style=for-the-badge&logo=openai&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Smart Contract](https://img.shields.io/badge/Smart%20Contract-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 <br/>
 
-📌 *Check out all my **85+ repositories** on my [GitHub Profile](https://github.com/manasshete?tab=repositories)!*
+> 💡 **A blockchain-powered pay-per-usage system** that lets users access AI APIs by paying per request using **Algorand smart contracts** — no subscriptions, just pure decentralized access!
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-6E57F7?style=for-the-badge)](https://github.com/manasshete/pay-per-usage-ai-api-access-system-using-algorand)
+&nbsp;
+[![All Repos](https://img.shields.io/badge/📂%20All%20Repositories-1a1a2e?style=for-the-badge)](https://github.com/manasshete?tab=repositories)
 
 </div>
 
