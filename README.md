@@ -49,16 +49,16 @@ Location  : India 🇮🇳
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,bash&theme=dark&perline=9" />
 
 ### 🌐 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,bootstrap,tailwind,jquery,threejs&theme=dark&perline=9" />
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis,supabase&theme=dark&perline=6" />
 
 ### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,docker,postman,npm,vercel,netlify&theme=dark&perline=10" />
 
 </div>
 
