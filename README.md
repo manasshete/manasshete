@@ -10,7 +10,7 @@
 
 Building full-stack projects across web development, blockchain, AI/ML, and IoT. Focused on creating software that matters.
 
-- **Education:** 2nd Year @ KJCOEMR (SPPU) | CGPA: 8.59
+- **Education:** 3rd Year @ KJCOEMR (SPPU) | CGPA: 8.59
 - **Location:** Pune, India  
 - **Current Focus:** Pay3, GSoC preparation
 
