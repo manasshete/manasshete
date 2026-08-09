@@ -12,7 +12,7 @@ Building full-stack projects across web development, blockchain, AI/ML, and IoT.
 
 - **Education:** 2nd Year @ KJCOEMR (SPPU) | CGPA: 8.59
 - **Location:** Pune, India  
-- **Current Focus:** Pay3, ABTalks, GSoC preparation
+- **Current Focus:** Pay3, GSoC preparation
 
 ---
 
@@ -42,9 +42,6 @@ Autonomous agent-to-agent payment infrastructure on Stellar blockchain
 
 **[SentinelAI](https://github.com/manasshete)** `Algorand` `MERN` `Smart Contracts`  
 Pay-per-use AI API marketplace with blockchain billing & transaction queuing
-
-**[ABTalks](https://github.com/manasshete)** `React Native` `Gamification` `Leaderboards`  
-Mobile platform for Indian college students with XP, streaks & competitive features
 
 ---
 
