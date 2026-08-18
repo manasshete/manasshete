@@ -31,7 +31,7 @@
  •  <a href="#-what-i-build">What I Build</a>
  •  <a href="#-tech-stack">Tech Stack</a>
  •  <a href="#-featured-projects">Projects</a>
- •  <a href="#-github-activity">Activity</a>
+ •  <a href="#-github-activity">Activities</a>
  •  <a href="#-connect">Connect</a>
 
 </div>
