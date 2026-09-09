@@ -18,7 +18,7 @@ Computer Engineering student (SPPU) focused on building scalable systems at the 
 
 > *"First, solve the problem. Then, write the code."*
 
----
+
 
 ### 🚀 Featured Projects
 
